@@ -6,7 +6,7 @@ Wikiepedia links are stored in a text file of the desired keyword (taken as inpu
 ### Command -> python3 fileName.py [argument/keyword]
 ### Before running the file Download the wikipedia-api package : pip3 install wikipedia-api
 #### If a link is already present in the file, it will not append it again
-#### End case handled : If there is error in keyword input or empyty input is passed
+#### End case handled : If there is error in keyword input or empty input is passed
  example : python3 wiki.py Barbie <br>
  example: python3 wiki.py
 
