@@ -17,7 +17,7 @@ Wikiepedia links are stored in a text file of the desired keyword (taken as inpu
  example : bash wikibash.sh
 
 # 3) wikiLinks.txt -> text file where the links are appended
-### In the file 2 links are already present
+### The file is not empty and already has 2 links in it.
  https://en.wikipedia.org/wiki/drums <br>
  https://en.wikipedia.org/wiki/plane
 
